@@ -17,7 +17,9 @@ Before running Jordle, ensure you have the following installed:
 - JavaFX SDK (if using a standalone JDK)
 
 Simply clone the repository to have all you need to get started.
+
 I recommend changing the "words.txt" file by adding words sepereated by lines to include all of the words you want (you can find lists of all wordle words by simply searching for them, there is a github repository that you can copy and paste into this file).
+
 You can also change the confetti.GIF and jordleImage.jpg (not really recommended but can be fun) to whatever you want as long as they have the same file name and format.
 
 **Running the Program**
@@ -38,5 +40,7 @@ Letters will change colors to indicate correctness:
 Keep guessing until you solve the word or run out of attempts!
 
 Clicking **reset** starts the game over with a new word.
+
 Clicking **Instuctions** shows these rules
+
 Clicking **Statistics** shows the player statistics for the playing session (since the program was first opened)
