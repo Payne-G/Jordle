@@ -28,3 +28,15 @@ javac --module-path "Path to your javafx lib folder" --add-modules javafx.contro
 
 java --module-path "Path to your javafx lib folder" --add-modules javafx.controls,javafx.fxml Jordle
 The program should open and you can play the game!
+
+**How to Play**
+Enter a five-letter word and press Enter (If a word with less than 5 letters is entered, an error window will pop up, you can close this window and keep playing)
+Letters will change colors to indicate correctness:
+🟩 Green: Correct letter in the correct spot
+🟨 Yellow: Correct letter in the wrong spot
+⬜ Gray: Letter not in the word
+Keep guessing until you solve the word or run out of attempts!
+
+Clicking **reset** starts the game over with a new word.
+Clicking **Instuctions** shows these rules
+Clicking **Statistics** shows the player statistics for the playing session (since the program was first opened)
