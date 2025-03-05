@@ -26,9 +26,11 @@ You can also change the confetti.GIF and jordleImage.jpg (not really recommended
 While you can run the program through something like IntelliJ or VSCode, I am just going to outline the Command Prompt method.
 
 With command prompt open, direct your command prompt to the folder where Jordle is installed using cd "Path To your Jordle folder", then you want to run the following lines seperately:
+
 javac --module-path "Path to your javafx lib folder" --add-modules javafx.controls,javafx.fxml Jordle.java
 
 java --module-path "Path to your javafx lib folder" --add-modules javafx.controls,javafx.fxml Jordle
+
 The program should open and you can play the game!
 
 **How to Play**
