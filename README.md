@@ -18,7 +18,7 @@ Before running Jordle, ensure you have the following installed:
 
 Simply clone the repository to have all you need to get started.
 
-I recommend changing the "words.txt" file by adding words sepereated by lines to include all of the words you want (you can find lists of all wordle words by simply searching for them, there is a github repository that you can copy and paste into this file).
+I recommend changing the "words.txt" file by adding or removing words sepereated by lines to include/exclude all of the words you want.
 
 You can also change the confetti.GIF and jordleImage.jpg (not really recommended but can be fun) to whatever you want as long as they have the same file name and format.
 
