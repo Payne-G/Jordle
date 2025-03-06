@@ -1,5 +1,5 @@
-**Jordle - A JavaFX Wordle Clone**
-Welcome to Jordle, a JavaFX-based recreation of the popular word puzzle game Wordle! This project aims to provide a sleek and interactive experience while showcasing the power of JavaFX.
+**Jordle - A JavaFX Word game**
+Welcome to Jordle, a JavaFX-based recreation of a popular word puzzle game! This project aims to provide a sleek and interactive experience while showcasing the power of JavaFX.
 
 With Jordle, players must guess a hidden five-letter word within six attempts, receiving color-coded feedback for each guess to indicate letter accuracy—just like the original game.
 
